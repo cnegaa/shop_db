@@ -14,11 +14,8 @@ c.    Визуализация выполнена с помощью PBI.
 ## В проекте рассматриваются такие показатели как:
 
 ## Финансовые:
-a.    Затраты;
 
-<div id="header" align="left">
-  <img src="https://github.com/cnegaa/shop_db/blob/main/gif/cost.gif" width="500"/>
-</div> 
+a.    Затраты; 
 
 b.    Выручка;
 
