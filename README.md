@@ -17,7 +17,7 @@ c.    Визуализация выполнена с помощью PBI.
 a.    Затраты;
 
 <div id="header" align="left">
-  <img src="https://github.com/cnegaa/shop_db/blob/main/gif/cost.gif" width="700"/>
+  <img src="https://github.com/cnegaa/shop_db/blob/main/gif/cost.gif" width="500"/>
 </div> 
 
 b.    Выручка;
