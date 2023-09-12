@@ -33,24 +33,26 @@
 ## Плановые;
 
 ## - Плановые затраты;
+### - 2021 год 
+  <image src="./img//cost/2021/cost_plan_fact.png" width = "600" height = "300" alt="xxx">
 
-  <image src="./img//cost/2021/cost_plan_fact.png" width = "400" height = "150" align="left" alt="xxx">
-  <image src="./img//cost/2022/cost_plan_fact.png" width = "400" height = "150" align="right" alt="xxx">
+### - 2022 год
+  <image src="./img//cost/2022/cost_plan_fact.png" width = "600" height = "300" alt="xxx">
 
 ## - Плановая выручка;
 
-## 2021 год
-  <image src="./img//revenue/2021/revenue_plan_fact.png" alt="xxx">
+### 2021 год
+  <image src="./img//revenue/2021/revenue_plan_fact.png" width = "600" height = "300" alt="xxx">
 
-## 2022 год
-  <image src="./img//revenue/2022/revenue_plan_fact.png" alt="xxx">
+### 2022 год
+  <image src="./img//revenue/2022/revenue_plan_fact.png" width = "600" height = "300" alt="xxx">
 
 ## - Плановая прибыль.
-## 2021 год
-  <image src="./img//profit/2021/profit_plan_fact.png" alt="xxx">
+### 2021 год
+  <image src="./img//profit/2021/profit_plan_fact.png" width = "600" height = "300" alt="xxx">
 
-## 2022 год
-<image src="./img//profit/2022/profit_plan_fact.png" alt="xxx">
+### 2022 год
+<image src="./img//profit/2022/profit_plan_fact.png" width = "600" height = "300" alt="xxx">
 
 
 a.  Количество заказов;
