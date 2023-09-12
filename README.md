@@ -5,31 +5,49 @@
 
 ## Использованные технологии
 
-a.    База данных - PostgreSQL;
+- База данных - PostgreSQL;
 
-b.    Расчет метрик выполнен с помощью языка запросов DAX, SQL;
+- Расчет метрик выполнен с помощью языка запросов DAX, SQL;
 
-c.    Визуализация выполнена с помощью PBI.
+- Визуализация выполнена с помощью PBI.
 
 ## В проекте рассматриваются такие показатели как:
 
 ## Финансовые:
 
-a.    Затраты; 
+## - Затраты; 
+  <image src="./img//cost/cost_2021_2022.png" alt="xxx">
 
-<image src="./img//cost/cost_2021_2022.png" alt="xxx">
+## - Выручка;
+  <image src="./img//revenue/revenue_2021_2022.png" alt="xxx">
 
-b.    Выручка;
+## - Прибыль;
+  <image src="./img//profit/profit_2021_2022.png" alt="xxx">
 
-c.    Прибыль;
+## Плановые;
 
-d.    Плановые затраты;
+## - Плановые затраты;
+## 2021 год
+  <image src="./img//cost/2021/cost_plan_fact.png" alt="xxx">
 
-e.    Плановая выручка;
+## 2022 год
+  <image src="./img//cost/2022/cost_plan_fact.png" alt="xxx">
 
-f.    Плановая прибыль.
+## - Плановая выручка;
 
-## Количественные: 
+## 2021 год
+  <image src="./img//revenue/2021/revenue_plan_fact.png" alt="xxx">
+
+## 2022 год
+  <image src="./img//revenue/2022/revenue_plan_fact.png" alt="xxx">
+
+## - Плановая прибыль.
+## 2021 год
+  <image src="./img//profit/2021/profit_plan_fact.png" alt="xxx">
+
+## 2022 год
+<image src="./img//profit/2022/profit_plan_fact.png" alt="xxx">
+
 
 a.  Количество заказов;
 
