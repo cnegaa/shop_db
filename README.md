@@ -35,14 +35,8 @@
 ## - Плановые затраты;
 
 <div>
-  <div align="left" >
-    <h3> 2021 год</h3>
-    <image src="./img//cost/2021/cost_plan_fact.png" width = "400" height = "150" alt="xxx">
-  </div>
-  <div align="right">
-    <h3>2022 год</h3>
-    <image src="./img//cost/2022/cost_plan_fact.png" width = "400" height = "150" alt="xxx">
-  </div>
+    <image src="./img//cost/2021/cost_plan_fact.png" width = "400" height = "150" align="left" alt="xxx">
+    <image src="./img//cost/2022/cost_plan_fact.png" width = "400" height = "150" align="right" alt="xxx">
 </div>
   
 
