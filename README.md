@@ -16,7 +16,7 @@
 ## Финансовые:
 
 ## - Затраты; 
-  <image src="./img//cost/cost_2021_2022.png" alt="xxx" width = "120" height = "80" >
+  <image src="./img//cost/cost_2021_2022.png" alt="xxx" width = "240" height = "160" >
 
 ## - Выручка;
   <image src="./img//revenue/revenue_2021_2022.png" alt="xxx">
