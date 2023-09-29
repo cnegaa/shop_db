@@ -39,7 +39,7 @@ from
 				case 
 				when extract ( year from so.created_at ) = '2022' -- кол-во заказов 2022 год
 				then count(distinct so.id) 
-		end as order_22	
+			end as order_22	
 		from shop_customer sc 
 		inner join shop_order so 
 		on sc.id = so.customer_id 
