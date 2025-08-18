@@ -2,8 +2,7 @@
 
 Все данные являются сгенерированными и приведены исключительно в качестве примера. Анализ выполнен на основании базы данных интернет-магазина за 2021–2022 годы.
 
-## Ссылка на Dashboard Power BI
-[PowerBI](https://drive.google.com/drive/folders/1nsH0HnNUoO5D0C2rAXn0iKZTOlbbCJZ_?usp=drive_link)
+## Ссылка на Dashboard [PowerBI](https://drive.google.com/drive/folders/1nsH0HnNUoO5D0C2rAXn0iKZTOlbbCJZ_?usp=drive_link)
 
 ## Использованные технологии
 - **База данных**: PostgreSQL  
